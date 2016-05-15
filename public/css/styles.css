@@ -1,0 +1,102 @@
+html, body {
+  /*margin: 0;
+  height: 100%;*/
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+#splash {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+header {
+  padding: 20px;
+  background-color: #f1c40f;
+}
+
+header h1 {
+  margin: 0;
+  font-family: 'Cantata One', serif;
+  text-align: center;
+  font-size: 3em;
+  font-weight: bold;
+  color: crimson;
+
+}
+
+header a {
+  text-decoration: none;
+  color: crimson;
+}
+
+h2 {
+  text-align: center;
+}
+
+header img {
+  float: left;
+}
+
+nav {
+  overflow: auto;
+}
+
+nav ul li {
+  font-size: 1.5em;
+  list-style: none;
+  float: left;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.faculty_quote {
+  margin: 20px;
+  text-align: center;
+}
+
+.faculty_box {
+  overflow: auto;
+  border: 1px black;
+  padding: 10%;
+  color: white;
+}
+
+.faculty_img {
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin-right: 20px;
+}
+
+.faculty_desc {
+  text-decoration: none;
+  width: auto;
+  padding-left: 20px;
+}
+
+.gryffindor {
+  background-color: #993333;
+}
+
+.slytherin {
+  background-color: #006633;
+}
+
+.hufflepuff {
+  background-color: #ffcc33;
+}
+
+.ravenclaw {
+  background-color: #333366;
+}
+
+.navbar {
+  background-color: #f1c40f !important;
+}
+
+.samesize {
+  width: 200px
+}

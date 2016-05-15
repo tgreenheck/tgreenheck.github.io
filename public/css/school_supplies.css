@@ -1,0 +1,98 @@
+html, body {
+  margin: 0;
+  height: 100%;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+#splash {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+header {
+  background-color: #f1c40f;
+}
+
+header h1 {
+  font-family: 'Cantata One', serif;
+  text-align: center;
+  font-size: 3em;
+  font-weight: bold;
+  color: crimson;
+
+}
+
+header a {
+  text-decoration: none;
+  color: crimson;
+}
+
+h2 {
+  text-align: center;
+}
+
+header img {
+  float: left;
+}
+
+nav {
+  overflow: auto;
+}
+
+nav ul li {
+  font-size: 1.5em;
+  list-style: none;
+  float: left;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+    .finance_quote {
+      margin: 20px;
+      text-align: center;
+    }
+
+    .finance_box {
+      overflow: auto;
+      border: 1px black;
+      margin: 20px 20px;
+    }
+
+    .finance_img {
+      width: 200px;
+      height: 200px;
+      float: left;
+      margin-right: 20px;
+    }
+
+    .finance_desc {
+      width: auto;
+      padding-left: 20px;
+    }
+
+    .finance_table {
+      width: auto;
+      padding-left: 0px;
+      position: center;
+    }
+
+    .shop_box {
+      overflow: auto;
+      border: 1px black;
+      margin: 20px 20px;
+    }
+
+    .shop_desc {
+      width: auto;
+      padding-left: 20px;
+    }
+
+    .shop_img {
+      width: 200px;
+      height: 200px;
+      float: left;
+      margin-right: 20px;
+    }
